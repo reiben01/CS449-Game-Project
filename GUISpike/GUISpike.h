@@ -1,4 +1,4 @@
-#pragma once
+/*#pragma once
 
 #include <QtWidgets/QMainWindow>
 #include "ui_GUISpike.h"
@@ -15,3 +15,4 @@ private:
     Ui::GUISpikeClass ui;
 };
 
+*/

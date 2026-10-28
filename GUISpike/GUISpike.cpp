@@ -1,4 +1,4 @@
-#include "GUISpike.h"
+/*#include "GUISpike.h"
 
 GUISpike::GUISpike(QWidget *parent)
     : QMainWindow(parent)
@@ -9,3 +9,4 @@ GUISpike::GUISpike(QWidget *parent)
 GUISpike::~GUISpike()
 {}
 
+*/
